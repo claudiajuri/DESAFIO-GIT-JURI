@@ -31,6 +31,7 @@ a {
 
 #resumen {
    background-color: rgb(240, 21, 167);
+   background: linear-gradient( to bottom, rgb(240,21,167), rgb(242,104,155), white);
     font-weight: 400;
     }
 
@@ -61,20 +62,6 @@ a {
     background-size: cover;
     background-attachment: fixed;
     }
-
-/* reemplace por grid caja 1
-#galeria {
-    display: inline;
-    width: 150px;
-    margin: auto;
-}
-
-.fotos-portada{
-    display: inline-block;
-    padding: 60px;
-    position: sticky;
-    margin-top:40px;
-}*/
 
 #enlace-wapp{
     position:fixed;
