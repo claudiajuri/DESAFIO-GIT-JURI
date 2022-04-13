@@ -252,6 +252,7 @@ a {
     list-style: none;
     display: flex;
     background-color: rgb(64, 224, 211);
+    background: linear-gradient();
     justify-content: space-around;
     font-size:20px;
     font-weight: 400;
